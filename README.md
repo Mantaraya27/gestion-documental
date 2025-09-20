@@ -48,4 +48,14 @@ Mi participación consistió en **colaborar en el desarrollo del frontend**, ase
 
 - **Frontend Developer:** Lucas Sosa  
 - **Email:** lucassosavega.ofi@gmail.com
-- **Portfolio:** [lsportafolio.vercel.app](#)  
+- **Portfolio:** [lsportafolio.vercel.app](#)
+
+## 🖼 Capturas del Proyecto
+
+A continuación se muestran algunas capturas de pantalla del sistema:
+
+### Pantalla de Inicio de Usuarios en Faena
+![Inicio Usuarios](https://res.cloudinary.com/drew1u02j/image/upload/v1758400705/womh3ebd7natgchlvn9i.webp)
+
+### Visualización de Documentos
+![Documentos](https://res.cloudinary.com/drew1u02j/image/upload/v1758400705/qxyumz1lzfqugqfexugm.webp)
